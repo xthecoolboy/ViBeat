@@ -4,7 +4,7 @@
   "description": "Discord Music Bot with cool music filters",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node ./src/index.js",
     "lint": "eslint ./"
   },
   "author": "Kaustub Navalady",
